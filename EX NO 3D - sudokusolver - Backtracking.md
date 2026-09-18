@@ -1,6 +1,6 @@
 # EX 3D Sudoku solver - Backtracking.
 
-## DATE: 16-09-2026
+## DATE: 16-08-2026
 # Name  : Sandeep S
 # Reg no: 212223220092
 ## AIM:
